@@ -1,3 +1,8 @@
+---
+layout: default
+title: yes
+---
+
 # markdown
 
 ### why markdown?
@@ -94,8 +99,7 @@ this is a very cool description of it! or maybe it's something else, who knows? 
 
 * this is a bullet point
 - this is also a bullet point
-+ you don't get a choice, everything is a bullet point
-+ 
++ you don't get a choice, everything is a bullet point 
 
 ##### numeric and bulleted lists 2! sublist boogaloo!
 ---
@@ -105,11 +109,10 @@ this is a very cool description of it! or maybe it's something else, who knows? 
       * and another bullet!
        3. oh no, this is part of the same list :(
 ~~~
-note: you have to indent each new sublist by at least 2 spaces for it to show up
+note: you have to indent each new sublist by at least 2 spaces for it to show up as a sublist
 * a bullet
   1. a number!
-      * and another bullet!
-      
+      * and another bullet!      
        3. oh no, this is part of the same list :(
 
 ##### links and images
@@ -175,7 +178,7 @@ and this is how you `embed` code
 3 dashes make a horizontal line
 
 ***
-3 asterisks make a THICC horizontal line
+3 asterisks make a horizontal line too
 
 if you want to use markdown characters like *this*, markdown will interpret them as formatting markers
 put a backslash before your \* and markdown will render them as regular characters instead
@@ -195,8 +198,8 @@ and this is how you `embed` code
 
 ***
 
-3 asterisks make a THICC horizontal line
+3 asterisks make a horizontal line too
 
-if you want to use markdown characters like *this*, markdown will interpret them as formatting markers
+if you want to use markdown characters like *this*, markdown will interpret them as formatting markers.
 put a backslash before your \* and markdown will render them as regular characters instead
 
