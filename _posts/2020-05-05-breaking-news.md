@@ -29,10 +29,10 @@ Lysol警告说，其产品"在任何情况下都不应"被注射或摄入。美�
 
 Vocabulary (词汇):
 
-Warned 警告
-Disinfectant 消毒剂
-Plea 请求
-out of context 断章取义
-toxic 有毒的
-ingested 摄入
-circumstances 情况
+- Warned 警告
+- Disinfectant 消毒剂
+- Plea 请求
+- out of context 断章取义
+- toxic 有毒的
+- ingested 摄入
+- circumstances 情况
