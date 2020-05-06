@@ -11,7 +11,7 @@ comments had been made "sarcastically". The White House said the media took the
 comments out of context and wrote "negative headlines".
 
 医生强烈警告不要使用消毒剂来治疗冠状病毒。此前，美国总统唐纳德·特朗普建议使用消毒剂治疗COVID-19。特朗普总统说：
-“我看到消毒剂，它一分钟内就将（病毒）消灭..是否有办法通过注射来做类似的事情?..它进入肺部，在肺部做大量的”。特朗普表示，
+“我看到消毒剂，它一分钟内就将（病毒）消灭..是否有办法通过注射来做类似的事情?..让它进入肺部，在肺部起很大的作用”。特朗普表示，
 他的言论是“讽刺的”。白宫说，媒体断章取义地评论，并撰写了“负面的头条新闻”。
 
 Disinfectants are toxic substances and can have fatal consequences if injected or
