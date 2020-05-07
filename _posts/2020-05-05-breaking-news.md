@@ -5,7 +5,7 @@ title: Breaking News (突发新闻)
 # Breaking News (突发新闻) [test link](/audio.m4a)
 
 <audio controls>
-  <source src="/hourse.mp3" type="audio/mpeg">
+  <source src="/horse.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
