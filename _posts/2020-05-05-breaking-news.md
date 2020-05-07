@@ -4,6 +4,11 @@ title: Breaking News (突发新闻)
 
 # Breaking News (突发新闻)
 
+<audio controls>
+  <source src="audio.m4a" type="audio/m4a">
+Your browser does not support the audio element.
+</audio>
+
 Doctors have strongly warned against using disinfectant to treat coronavirus. Their plea
 follows suggestions by US President Donald Trump that disinfectant could be used to
 treat COVID-19. President Trump said: "I see the disinfectant, where it knocks [the
