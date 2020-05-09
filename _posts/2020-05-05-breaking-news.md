@@ -18,6 +18,7 @@ Vocabulary (词汇):
 - ingested 摄入
 - circumstances 情况
 
+Please play the recording (同学们请听录音)
 <audio controls>
   <source src="/breakingnews.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
