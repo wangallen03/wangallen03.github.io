@@ -3,9 +3,10 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 ---
 
-# Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 1
+# Inman Senior Resident English Class
+## Intermediate Level On-line Lesson No. 1
 
-## Breaking News (突发新闻)
+### Breaking News (突发新闻)
 
 Vocabulary (词汇):
 
