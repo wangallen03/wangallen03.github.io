@@ -7,6 +7,16 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 ## Breaking News (突发新闻)
 
+Vocabulary (词汇):
+
+- Warned 警告
+- Disinfectant 消毒剂
+- Plea 请求
+- out of context 断章取义
+- toxic 有毒的
+- ingested 摄入
+- circumstances 情况
+
 <audio controls>
   <source src="/breakingnews.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -37,12 +47,4 @@ Lysol警告说，其产品"在任何情况下都不应"被注射或摄入。美�
 的行列。说："很不幸，我不得不对此发表评论，但人们在任何情况下都不应该摄入或注射漂白剂或消毒剂。它补充说：&quot;请放心，当我们最终找到针对COVID-19的治疗或疫苗时
 ，它将不会在清洁用品通道中“。
 
-Vocabulary (词汇):
 
-- Warned 警告
-- Disinfectant 消毒剂
-- Plea 请求
-- out of context 断章取义
-- toxic 有毒的
-- ingested 摄入
-- circumstances 情况
