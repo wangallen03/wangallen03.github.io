@@ -1,8 +1,11 @@
 ---
-title: Breaking News (突发新闻)
+title: Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 1
+
 ---
 
-# Breaking News (突发新闻)
+# Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 1
+
+## Breaking News (突发新闻)
 
 <audio controls>
   <source src="/breakingnews.mp3" type="audio/mpeg">
