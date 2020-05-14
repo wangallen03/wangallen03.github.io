@@ -1,8 +1,12 @@
-Lesson 2. Cabin Fever  (幽居病)  BBC-“地道英语”节目
+
+# Inman Senior Resident English Class
+## Intermediate Level On-line Lesson 2
+
+### Cabin Fever  (幽居病)  BBC-“地道英语”节目
 
 <audio controls>
   <source src="/bbc_lesson_cabin_fever_lesson 2.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+  Your browser does not support the audio element.
 </audio>
 
 这里是 BBC英语教学的 “地道英语” 节目。我们在一起学习的表达是 “cabin fever（幽居病）”。“Cabin fever” 指的是一些人由于长时间待在封闭空间内产生不安与烦躁的状态。
