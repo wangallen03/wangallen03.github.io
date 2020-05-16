@@ -1,7 +1,6 @@
 
 # Inman Senior Resident English Class
 ## Intermediate Level On-line Lesson No. 2
-
 ### COVID-19, Loneliness, and Cabin Fever (幽居病)
 
 <audio controls>
@@ -12,16 +11,16 @@
 Please play the recording and read along (同学们请听录音跟着朗读)
 
 #### Vocabulary （词汇）:
-social – 社交
-companionship – 陪伴
-condition – 条件
-restless – 不安
-bored – 无聊
-distress – 窘迫
-irritable – 急躁
-isolating – 隔离
-meditation – 静想
-zen - 禅
+- social – 社交
+- companionship – 陪伴
+- condition – 条件
+- restless – 不安
+- bored – 无聊
+- distress – 窘迫
+- irritable – 急躁
+- isolating – 隔离
+- meditation – 静想
+- zen - 禅
 
 
 Isolation isn’t a natural state for many people. We are, for the most part, social beings. We enjoy each other’s companionship. That’s what can make staying at home for extended periods of time difficult. Today, we are going to talk about being trapped indoors for a long period of time.
