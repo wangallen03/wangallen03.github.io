@@ -44,15 +44,13 @@ Things you can do to support yourself:
 
 隔离在家，限制与别人的接触现在很重要，但它也可能造成孤独和孤立。您可能还正在经历"幽居病"，在那里您感到被困、无聊和易怒。请尝试这些提示，以保持联系、正面和健康。您可以做一些帮助自己的活动：
 
-1.	Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting. 
-暂停观看、阅读或收听新闻（包括社交媒体）。反复听到流行病报道可能会令人不安。
-2.	Take care of your body.
+1.	Take care of your body.
 照顾好身体。
-3.	Spend time outdoors. Time spent in nature is time well spent for mental health. Not only does spending time outdoors boost your mental health, it may also help improve your mood and reduce stress.
+2.	Spend time outdoors. Time spent in nature is time well spent for mental health. Not only does spending time outdoors boost your mental health, it may also help improve your mood and reduce stress.
 花点时间在户外。在大自然中度过时间有利心理健康。花时间在户外不仅能促进心理健康，还有助于改善情绪和减少压力。
-4.	Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep.
+3.	Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep.
 尽量吃健康均衡的食物，定期锻炼，充足的睡眠。
-5.	Connect with others. Talk with people you trust about your concerns and how you are feeling.
+4.	Connect with others. Talk with people you trust about your concerns and how you are feeling.
 与他人保持联系。和你信任的人谈论你关心的问题和你的感受。
-6.	Find moments of zen, Mindfulness and meditation practices can reduce stress and anxiety and even improve your attention span.
+5.	Find moments of zen, Mindfulness and meditation practices can reduce stress and anxiety and even improve your attention span.
 试着禅定，正念和冥想练习可以减少压力和焦虑，甚至改善你的注意力。
