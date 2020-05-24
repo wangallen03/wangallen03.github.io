@@ -3,14 +3,10 @@
 ## Intermediate Level On-line Lesson No. 2
 ### COVID-19, Loneliness, and Cabin Fever (幽居病)
 
-<audio controls>
-  <source src="/bbc_lesson_cabin_fever_lesson 2.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 Please play the recording and read along (同学们请听录音跟着朗读)
 
-#### Vocabulary （词汇）: <audio controls>
+#### Vocabulary （词汇）: 
+<audio controls>
   <source src="/vocab.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
