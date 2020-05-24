@@ -10,7 +10,10 @@
 
 Please play the recording and read along (同学们请听录音跟着朗读)
 
-#### Vocabulary （词汇）:
+#### Vocabulary （词汇）: <audio controls>
+  <source src="/vocab.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 - social – 社交
 - companionship – 陪伴
 - condition – 条件
@@ -23,6 +26,10 @@ Please play the recording and read along (同学们请听录音跟着朗读)
 - zen - 禅
 
 
+<audio controls>
+  <source src="/main.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 Isolation isn’t a natural state for many people. We are, for the most part, social beings. We enjoy each other’s companionship. That’s what can make staying at home for extended periods of time difficult. Today, we are going to talk about being trapped indoors for a long period of time.
 
 隔离对许多人来说不自然。我们在很大程度上是社交群体。我们喜欢彼此的陪伴。这就让长时间呆在家里变得困难。今天，我们要谈论长时间被困在室内的问题。
@@ -44,6 +51,11 @@ Things you can do to support yourself:
 
 隔离在家，限制与别人的接触现在很重要，但它也可能造成孤独和孤立。您可能还正在经历"幽居病"，在那里您感到被困、无聊和易怒。请尝试这些提示，以保持联系、正面和健康。您可以做一些帮助自己的活动：
 
+
+<audio controls>
+  <source src="/tips.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 1.	Take care of your body.
 照顾好身体。
 2.	Spend time outdoors. Time spent in nature is time well spent for mental health. Not only does spending time outdoors boost your mental health, it may also help improve your mood and reduce stress.
