@@ -24,8 +24,7 @@
 - The House:                       众院
 - The Senate:                      参院
  
-The government has started a massive economic stimulus effort that will put money directly in your pocket. Here’s a rundown of how much money you might get in a stimulus check, how that IRS payment will arrive and when.
-政府开始大规模经济刺激措施，将资金直接放入你的口袋。以下步骤帮助您查看怎样领取疫情援助支票、IRS税务局付款将如何拿到以及何时拿到。
+The government has started a massive economic stimulus effort that will put money directly in your pocket. Here’s a rundown of how much money you might get in a stimulus check, how that IRS payment will arrive and when. 政府开始大规模经济刺激措施，将资金直接放入你的口袋。以下步骤帮助您查看怎样领取疫情援助支票、IRS税务局付款将如何拿到以及何时拿到。
 
 
 How much is my stimulus payment? 疫情援助支票数额
