@@ -7,7 +7,7 @@
 
 ### Vocabulary（词汇):
 <audio controls>
-  <source src="/vocab.mp3" type="audio/mpeg">
+  <source src="/vocab3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -23,7 +23,12 @@
 - Supplemental:                    救济
 - The House:                       众院
 - The Senate:                      参院
- 
+
+
+<audio controls>
+  <source src="/lesson.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 The government has started a massive economic stimulus effort that will put money directly in your pocket. Here’s a rundown of how much money you might get in a stimulus check, how that IRS payment will arrive and when. 政府开始大规模经济刺激措施，将资金直接放入你的口袋。以下步骤帮助您查看怎样领取疫情援助支票、IRS税务局付款将如何拿到以及何时拿到。
 
 
