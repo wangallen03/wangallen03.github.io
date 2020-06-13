@@ -32,11 +32,11 @@
 The government has started a massive economic stimulus effort that will put money directly in your pocket. Here’s a rundown of how much money you might get in a stimulus check, how that IRS payment will arrive and when. 政府开始大规模经济刺激措施，将资金直接放入你的口袋。以下步骤帮助您查看怎样领取疫情援助支票、IRS税务局付款将如何拿到以及何时拿到。
 
 
-1. How much is my stimulus payment? 疫情援助支票数额
+1: How much is my stimulus payment? 疫情援助支票数额
 
 The U.S. Treasury will pay out up to $1,200 per adult and $500 per child under age 17. A married couple with two kids would get $3,400, for example.美国财政部将支付每位成人1200美元，17岁以下儿童500美元。例如，一对有两个孩子的已婚夫妇会得到3400美元。
 
-2. When will stimulus checks arrive? 疫情援助支票何时拿到
+2: When will stimulus checks arrive? 疫情援助支票何时拿到
 
 - Direct deposit (直接存取): 
 
@@ -52,7 +52,7 @@ On May 18, the U.S. Treasury Department announced it would begin sending nearly 
 
 If you receive Supplemental Security Income from the Social Security Administration: SSI recipients will receive their IRS payment in early May. 如果您在社会保障管理局有救济社保收入（SSI ），收款人将在 5 月初收到其 IRS 付款。
 
-3. Elderly and disabled people 老人与残疾人
+3: Elderly and disabled people 老人与残疾人
 
 Most senior citizens will qualify for a check. The exception: Those claimed as dependents by their children or someone else.
 大多数老年人都有资格。例外情况：那些被子女或其他人称为赡养人。
