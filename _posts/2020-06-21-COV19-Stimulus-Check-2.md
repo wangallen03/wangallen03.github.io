@@ -1,6 +1,6 @@
-#Inman Senior Resident English Class
-##Intermediate Level On-line Lesson No. 4
-###Coronavirus stimulus check   新冠肺炎疫情援助支票 - 2
+# Inman Senior Resident English Class
+## Intermediate Level On-line Lesson No. 4
+### Coronavirus stimulus check   新冠肺炎疫情援助支票 - 2
 
 CONTINUED FROM LAST LESSON (继续上一课)
 ### Vocabulary（词汇):
