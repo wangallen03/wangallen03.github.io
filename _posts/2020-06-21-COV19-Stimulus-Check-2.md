@@ -26,18 +26,18 @@ CONTINUED FROM LAST LESSON (继续上一课)
   Your browser does not support the audio element.
 </audio>
 
-4. Check the status of your payment 检查你的付款状态
+4: Check the status of your payment 检查你的付款状态
 
 If you’re waiting for a payment, you can check the status through the IRS website below. 如果您正在等待付款，您可以通过下面的IRS (税务局)指南网站查看状态，
 - https://www.irs.gov/coronavirus/get-my-payment
 - https://sa.www4.irs.gov/irfof-wmsp/login
 
-5. More Questions? 更多问题
+5: More Questions? 更多问题
 
 Visit the following site to answer your questions about using the application, eligibility, payment amounts, and more. 访问以下网站，回答有关申请、资格、付款金额等的问题。
 - https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions
 
-6. Will there be second round of stimulus checks? 还有第二张支票吗？
+6: Will there be second round of stimulus checks? 还有第二张支票吗？
 
 The House recently passed another coronavirus relief package, dubbed the HEROES Act, that would provide up to $1,200 per individual with a maximum amount of $6,000 per household. 众议院最近通过了另一项名为"英雄法案"的疫情救助计划，将为每户提供最高1200美元，每户最高金额为6000美元。
 
@@ -45,7 +45,7 @@ Similar to the first stimulus payments, single adults with income up to $75,000 
  
 While the bill likely won’t pass the Senate, experts said another stimulus package may be on the way, which could include another stimulus payout. 虽然该法案可能不会在参议院获得通过，但专家表示，另一项经济刺激计划可能即将出台，可能包括另一项疫情救助拨款支出。
 
-7. What if ‘Payment Status Not Available’ 付款状态未知怎么办
+7: What if ‘Payment Status Not Available’ 付款状态未知怎么办
 
 If you receive the message “Payment Status Not Available,” you may be ineligible for the stimulus payment. But not always, you may also get that message if:
 如果收到了“付款状态未知”的通知，您可能没有资格获得疫情付款，但也可能是以下情况：
