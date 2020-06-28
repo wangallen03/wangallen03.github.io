@@ -29,13 +29,13 @@ CONTINUED FROM LAST LESSON (继续上一课)
 4: Check the status of your payment 检查你的付款状态
 
 If you’re waiting for a payment, you can check the status through the IRS website below. 如果您正在等待付款，您可以通过下面的IRS (税务局)指南网站查看状态，
-- https://www.irs.gov/coronavirus/get-my-payment
-- https://sa.www4.irs.gov/irfof-wmsp/login
+- [https://www.irs.gov/coronavirus/get-my-payment](https://www.irs.gov/coronavirus/get-my-payment)
+- [https://sa.www4.irs.gov/irfof-wmsp/login](https://sa.www4.irs.gov/irfof-wmsp/login)
 
 5: More Questions? 更多问题
 
 Visit the following site to answer your questions about using the application, eligibility, payment amounts, and more. 访问以下网站，回答有关申请、资格、付款金额等的问题。
-- https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions
+- [https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions](https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions)
 
 6: Will there be second round of stimulus checks? 还有第二张支票吗？
 
