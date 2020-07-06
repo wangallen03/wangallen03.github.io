@@ -7,6 +7,7 @@ Vocabulary （词汇）:
   <source src="/vocab5.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
 - spread: 				传播
 - vaccine：				疫苗
 - immune：				免疫
