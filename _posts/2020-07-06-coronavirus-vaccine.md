@@ -55,9 +55,9 @@ This would allow lockdowns to be lifted more safely, and social distancing to be
 
 取得什么样的进展
 
-Research is happening at breakneck speed. About 80 groups around the world are researching vaccines and some are now entering clinical trials.
+Research is happening at breakneck speed. About 80 groups around the world are researching vaccines.
 
-研究正在以惊人的速度进行。全世界约有80个团体正在研究疫苗，有些进入临床试验。
+研究正在以惊人的速度进行。全世界约有80个团体正在研究疫苗。
 
 The first human trial data appears positive, showing the first eight patients all produced antibodies that could neutralise the virus.
 
@@ -87,9 +87,11 @@ Four coronaviruses already infect humans. They cause common cold symptoms and we
 
 四种冠状病毒已经在人类中传播。它们会导致常见的感冒症状，而我们没有针对其中任何一种的疫苗。
 
-4: What still needs to be done?还需要做什么
+4: What still needs to be done?
 
-Multiple research groups have designed potential vaccines, however, there is much more work to do. 
+还需要做什么
+
+Multiple research groups have designed potential vaccines. However, there is much more work to do. 
 
 多个研究小组研发疫苗，但是，还有更多的工作要做。
 
@@ -101,7 +103,7 @@ A way of producing the vaccine on a huge scale must be developed for the billion
 
 必须开发大规模生产数十亿疫苗来接种的方式。
 
-Medicines regulators must approve it before it can be given.
+Medicine regulators must approve it before it can be given.
 
 药品监管部门必须批准，然后才能接种。
  
@@ -121,7 +123,7 @@ It is hard to know without knowing how effective the vaccine is going to be.
 
 不知道疫苗多有效前很难预估。
 
-It is thought that 60-70% of people needed to be immune to the virus in order to stop it spreading easily (known as herd immunity). 
+It is thought that 60-70% of people need to be immune to the virus in order to stop it spreading easily (known as herd immunity). 
 
 据认为，60-70%的人需要对病毒免疫才能阻止它很容易传播（称为群体免疫）。
 
@@ -146,7 +148,3 @@ If a vaccine is developed, then there will be a limited supply, at least initial
 Healthcare workers who come into contact with Covid-19 patients would come first. The disease is most deadly in older people so they would be a priority if the vaccine was effective in this age group.
 
 与Covid-19患者接触的医护人员将名列榜首。这种疾病在老年人中是最致命的，因此，如果疫苗在老龄段有效，老年人将拥有优先权。
-
-However, it might be better to vaccinate those who live with or care for the elderly instead.
-
-然而，也需要为与老年人一起生活或照顾老年人的那些人接种疫苗。
