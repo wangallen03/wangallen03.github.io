@@ -3,6 +3,7 @@
 ### Coronavirus vaccine: When will we have one? 新冠肺炎疫苗
 
 Vocabulary （词汇）:
+
 <audio controls>
   <source src="/vocab5.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -23,13 +24,15 @@ Vocabulary （词汇）:
 - prioritise：				优先
  
 ### Lesson 5
+
 <audio controls>
   <source src="/lesson5.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-Coronavirus is spreading around the world, but there are still no vaccines to protect the body against the disease Covid-19 causes.
+
+Coronavirus is spreading around the world, but there are still no vaccines to protect the body against the disease.
  
-冠状病毒正在世界各地传播，但仍然没有疫苗来保护身体免受Covid-19引起的疾病。
+冠状病毒正在世界各地传播，但仍然没有疫苗来保护身体免受疾病。
  
 Medical researchers are working hard to change that. 
  
@@ -39,7 +42,7 @@ Medical researchers are working hard to change that.
  
 为什么冠状病毒疫苗很重要
 
-A vaccine would provide protection by training people's immune systems to fight the virus so they should not become sick. 
+A vaccine would provide protection by training people's immune systems to fight the virus so they would not become sick. 
 
 疫苗将保护人们，训练免疫系统的对抗病毒，这样他们就不会生病。
 
@@ -59,10 +62,6 @@ Research is happening at breakneck speed. About 80 groups around the world are r
 The first human trial data appears positive, showing the first eight patients all produced antibodies that could neutralise the virus.
 
 第一个人类试验数据呈阳性，显示前八名患者都产生了可以中和病毒的抗体。
-
-The scientists have begun injecting animals with two potential vaccines. It is the first comprehensive pre-clinical trial involving animals, and the researchers hope to test humans by the end of April.
-
-科学家们已经开始给动物注射两种研发疫苗。这是首次涉及动物的临床前综合试验，研究人员希望在四月底之前对人进行测试。
 
 However, no-one knows how effective any of these vaccines will be.
 
