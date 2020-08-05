@@ -45,7 +45,7 @@ A woman traveled from the US back to her home in China's Heilongjiang province o
  
 3月19日，一名妇女从美国返回她在中国黑龙江省的家。虽然她没有任何症状，但她抵达后被隔离在她的公寓里，避免与其他公寓楼居民有任何密切联系，抗体测试后来发现她是无症状冠状病毒携带者。
 
-The two apartment-building neighbors had no crossed paths, but they had used the same elevator at different times, which explained the outburst of COV-19 in her neighborhood shortly after her arrival.
+The two apartment-building neighbors had no crossed paths, but they had used the same elevator at different times, which explained the outburst of COVID-19 in her neighborhood shortly after her arrival.
 
 两个公寓楼的邻居没有交互通路。但他们在不同的时间都用过同样的电梯。这解释了为何在她抵达后不久疫情开始在居民区爆发。
  
