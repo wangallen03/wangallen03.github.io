@@ -41,11 +41,11 @@ But new research reveals that an elevator can be a coronavirus transmission hots
 
 但新的研究表明，电梯可能是冠状病毒的传播热区，即使感染者不与其他人一起乘坐。
  
-A woman traveled from the US back to her home in China's Heilongjiang province on March 19. Although she did not have any symptoms, she quarantined in her apartment following her arrival, avoiding any close contact with other apartment-building residents. An antibody test would later reveal she was an asymptomatic coronavirus carrier.
+A woman traveled from the US back to her home in China's Heilongjiang province on March 19. Although she did not have any symptoms, she quarantined in her apartment following her arrival, avoiding any close contact with other residents. An antibody test would later reveal she was an asymptomatic coronavirus carrier.
  
-3月19日，一名妇女从美国返回她在中国黑龙江省的家。虽然她没有任何症状，但她抵达后被隔离在她的公寓里，避免与其他公寓楼居民有任何密切联系，抗体测试后来发现她是无症状冠状病毒携带者。
+3月19日，一名妇女从美国返回她在中国黑龙江省的家。虽然她没有任何症状，但她抵达后被隔离在她的公寓里，避免与其他居民有任何密切联系，抗体测试后来发现她是无症状冠状病毒携带者。
 
-The two apartment-building neighbors had no crossed paths, but they had used the same elevator at different times, which explained the outburst of COVID-19 in her neighborhood shortly after her arrival.
+The two apartment-building neighbors had not crossed paths, but they had used the same elevator at different times, which explained the outburst of coronavirus in her neighborhood shortly after her arrival.
 
 两个公寓楼的邻居没有交互通路。但他们在不同的时间都用过同样的电梯。这解释了为何在她抵达后不久疫情开始在居民区爆发。
  
@@ -53,9 +53,9 @@ According to a new CDC study, the downstairs neighbor "likely became infected by
 
 根据疾病预防控制中心的一项新研究，在无症状的携带者乘坐电梯后，楼下的邻居"很可能被使用过的电梯感染了"。他们认为传染可能发生在邻居触摸电梯的表面和按钮时。
  
-The primary concern when it comes to coronavirus and elevators is that nearly all elevators are small, enclosed indoor spaces. Those are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
+The main problem when it comes to coronavirus and elevators is that elevators are small, enclosed indoor spaces. Those are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
 
-当涉及到冠状病毒和电梯时，主要问题的是几乎所有的电梯都是小型的封闭式室内空间。这些都是冠状病毒传播的理想条件，因为当感染者咳嗽、打喷嚏或说话时，这种病毒会以液滴喷出。
+当涉及到冠状病毒和电梯时，主要问题是电梯都是小型的封闭式室内空间。这些都是冠状病毒传播的理想条件，因为当感染者咳嗽、打喷嚏或说话时，这种病毒会以液滴喷出。
  
 Elevators also tend to lack strong airflow, which mean people who have COVID-19 (no matter whether they're asymptomatic or feeling ill only) could leave some virus behind.
 
