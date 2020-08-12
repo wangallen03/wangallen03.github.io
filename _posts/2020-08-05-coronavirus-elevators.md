@@ -13,13 +13,13 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
   Your browser does not support the audio element.
 </audio>
 
-- high-rise: 				高层（建筑）
+- high-rise: 				高层
 - unavoidable：			不可避免
 - asymptomatic carrier：	无症状冠状病毒携带者
 - outburst：				爆发
 - transmission：			感染
 - ride/ridden：			乘坐（过去时）
-- elevator/lift：			电梯（整体）/电梯（间）
+- elevator：			电梯
 - droplets：				液滴
 - expelled：				喷出
 - viral：				活体（病毒）	
@@ -53,7 +53,7 @@ According to a new CDC study, the downstairs neighbor "likely became infected by
 
 根据疾病预防控制中心的一项新研究，在无症状的携带者乘坐电梯后，楼下的邻居"很可能被使用过的电梯感染了"。他们认为传染可能发生在邻居触摸电梯的表面和按钮时。
  
-The primary concern when it comes to coronavirus and elevators is that nearly all lifts are small, enclosed indoor spaces. Those are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
+The primary concern when it comes to coronavirus and elevators is that nearly all elevators are small, enclosed indoor spaces. Those are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
 
 当涉及到冠状病毒和电梯时，主要问题的是几乎所有的电梯都是小型的封闭式室内空间。这些都是冠状病毒传播的理想条件，因为当感染者咳嗽、打喷嚏或说话时，这种病毒会以液滴喷出。
  
