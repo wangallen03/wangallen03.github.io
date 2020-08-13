@@ -15,7 +15,8 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 - high-rise: 				高层
 - unavoidable：			不可避免
-- asymptomatic carrier：	无症状冠状病毒携带者
+- asymptomatic：	无症状
+- carrier: 				携带者
 - outburst：				爆发
 - transmission：			感染
 - ride/ridden：			乘坐（过去时）
@@ -37,7 +38,7 @@ If you live in a sixth-story apartment, or your office is dozens of floors up in
 
 如果你住在六层的步行公寓，或者你的办公室是几十层的高层（建筑），乘坐电梯可能是不可避免的。
  
-But new research reveals that an elevator can be a coronavirus transmission hotspot, even if an infected person doesn't ride with anyone else. 
+But new research reveals that elevators can be coronavirus transmission hotspots, even if an infected person doesn't ride with anyone else. 
 
 但新的研究表明，电梯可能是冠状病毒的传播热区，即使感染者不与其他人一起乘坐。
  
@@ -53,13 +54,13 @@ According to a new CDC study, the downstairs neighbor "likely became infected by
 
 根据疾病预防控制中心的一项新研究，在无症状的携带者乘坐电梯后，楼下的邻居"很可能被使用过的电梯感染了"。他们认为传染可能发生在邻居触摸电梯的表面和按钮时。
  
-The main problem when it comes to coronavirus and elevators is that elevators are small, enclosed indoor spaces. Those are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
+The main problem when it comes to coronavirus and elevators is that elevators are small, enclosed indoor spaces. These are the ideal conditions for the coronavirus' spread, since it's expelled in droplets when an infected person coughs, sneezes, or speaks.
 
 当涉及到冠状病毒和电梯时，主要问题是电梯都是小型的封闭式室内空间。这些都是冠状病毒传播的理想条件，因为当感染者咳嗽、打喷嚏或说话时，这种病毒会以液滴喷出。
  
-Elevators also tend to lack strong airflow, which mean people who have COVID-19 (no matter whether they're asymptomatic or feeling ill only) could leave some virus behind.
+Elevators also tend to lack strong airflow, which means that people who have coronavirus (no matter whether they're asymptomatic or feeling ill only) could leave some virus behind.
 
-电梯也往往缺乏强大的空气对流，这意味着患有COVID-19（无论他们是无症状的携带者或仅仅感觉不适）的人可能会留下一些病毒。
+电梯也往往缺乏强大的空气对流，这意味着患有疫情（无论他们是无症状的携带者或仅仅感觉不适）的人可能会留下一些病毒。
  
 Although it's not common, a person can get the coronavirus if they touch a surface or object that has viral particles on it and then touch their mouth, nose, or eyes.
 
