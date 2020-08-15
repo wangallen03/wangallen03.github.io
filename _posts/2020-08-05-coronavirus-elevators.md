@@ -30,7 +30,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 ### Lesson 6:
  
  <audio controls>
-  <source src="/vocab6.mp3" type="audio/mpeg">
+  <source src="/lesson6.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
  
