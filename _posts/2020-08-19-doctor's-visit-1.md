@@ -56,7 +56,7 @@ Patient: Okay, here’s my driver’s license and here’s the insurance card. A
 
 这是我的驾照，还有保险卡。这些是我的表格。
 
-Receptionist: Okay, I’ll take these and file them away. The doctor will see you shortly. Just to let you know, we only accept check and cash as your payment for your co-payment.   
+Receptionist: Okay, I’ll take these and file them away. The doctor will see you shortly. Just to let you know, we only accept checks and cash as your payment for your co-payment.   
 
 我会把它们拿走， 然后存档。 医生很快就会见到你。只是为了让你知道，我们只接受支票和现金作为您的共同付款。
 
