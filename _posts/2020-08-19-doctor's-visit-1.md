@@ -32,7 +32,7 @@ Patient： Hi there, I have an appointment at four o’clock.
 
 你好， 我四点钟有个预约。
 
-Receptionist: Okay, you’re just gonna need to sign your name here and also make the time of your appointment.
+Receptionist: Okay, you’re just gonna need to sign your name here and also set the time of your appointment.
 
 好的，你只需要在这里签上你的名字，然后写下好约会时间。
 
@@ -40,7 +40,7 @@ Patient: Okay. I think I’ve filled out everything.
 
 我想我已经把所有东西都填了。
 
-Receptionist: You’re a new patient correct?
+Receptionist: You’re a new patient, right?
 
 你是新病人？
 
@@ -56,8 +56,8 @@ Patient: Okay, here’s my driver’s license and here’s the insurance card. A
 
 这是我的驾照，还有保险卡。这些是我的表格。
 
-Receptionist: Okay, I’ll take these and file them away, the doctor will see you shortly. Just to let you know we only accept check and cash as your payment for your co-payment.   
+Receptionist: Okay, I’ll take these and file them away. The doctor will see you shortly. Just to let you know, we only accept check and cash as your payment for your co-payment.   
 
-我会把它们拿走， 然后存档， 医生很快就会见到你。只是为了让你知道我们只接受支票和现金作为您的共同付款。
+我会把它们拿走， 然后存档。 医生很快就会见到你。只是为了让你知道，我们只接受支票和现金作为您的共同付款。
 
  
