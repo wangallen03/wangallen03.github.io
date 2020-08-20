@@ -16,12 +16,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 - Appointment 预约
 - driver’s license  驾驶执照
 - co-payment (copay)  共同支付
-- symptom 症状
-- headache  头痛
-- diarrhea  腹泻
-- phlegm  痰
-- allergy 过敏
-- stuffy  闷
+- insurance card  保险卡
 
  
 ### Lesson 7:
