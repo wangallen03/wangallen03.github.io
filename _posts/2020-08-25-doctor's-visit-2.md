@@ -10,7 +10,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 ### Vocabulary （词汇）:
 
 <audio controls>
-  <source src="/vocab7.mp3" type="audio/mpeg">
+  <source src="/vocab8.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -22,10 +22,10 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 - stuffy  闷
 
  
-### Lesson 7:
+### Lesson 8:
  
  <audio controls>
-  <source src="/lesson7.mp3" type="audio/mpeg">
+  <source src="/lesson8.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -115,7 +115,7 @@ Patient: When should I come back again?
 
 我什么时候回珍？
 
-Doctor: I want to see you next week, but if you gets worse, you can come and see me regardless. 
+Doctor: I want to see you next week, but if you get worse, you can come and see me regardless. 
 
 我想下周见你， 但如果你变得更糟， 你可以直接来看我。
 
