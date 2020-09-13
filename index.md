@@ -8,3 +8,4 @@
 - [Lesson 8 Visiting the Doctor's Office 2](_posts/2020-08-25-doctor's-visit-2.md)
 - [Lesson 9 Medicare Basics](_posts/2020-09-01-Medicare-Basics.md)
 - [Lesson 10 Medicare part A](_posts/2020-08-28-Medicare-1.md)
+- [Lesson 11 Medicare part B](_posts/2020-09-12-Medicare-2.md)
