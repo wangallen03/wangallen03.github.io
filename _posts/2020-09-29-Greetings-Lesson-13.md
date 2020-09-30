@@ -23,12 +23,18 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 - Brown:					晒黑褐色
 
 #### Expressions
+
+![Expressions](/expressions13.jpg)
+
 <audio controls>
   <source src="/expressions13.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 #### Dialog 1
+
+![Dialog 1](/dialog113.jpg)
+
 <audio controls>
   <source src="/dialog113.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -36,6 +42,9 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 
 #### Dialog 2
+
+![Dialog 2](/dialog213.jpg)
+
 <audio controls>
   <source src="/dialog213.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -43,6 +52,9 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 
 #### FAQ
+
+![FAQ](/FAQ13.jpg)
+
 <audio controls>
   <source src="/FAQ13.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
