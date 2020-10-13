@@ -54,6 +54,16 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 </audio>
 
 
+#### Dialog 3
+
+![Dialog 3](/dialog314.jpg)
+
+<audio controls>
+  <source src="/dialog314.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 #### FAQ
 
 ![FAQ](/FAQ14.jpg)
