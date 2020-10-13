@@ -11,3 +11,4 @@
 - [Lesson 11 Medicare part B](_posts/2020-09-12-Medicare-2.md)
 - [Lesson 12 Medicare parts C / D](_posts/2020-09-15-Medicare-3.md)
 - [Lesson 13 Greetings](_posts/2020-09-29-Greetings-Lesson-13.md)
+- [Lesson 14 Thanks and Apologies](_posts/2020-10-12-Thanks-And-Apologies-Lesson-14.md)
