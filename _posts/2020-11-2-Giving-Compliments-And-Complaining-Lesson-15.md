@@ -8,7 +8,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 
 #### Vocabulary（词汇):
 <audio controls>
-  <source src="/vocab14.mp3" type="audio/mpeg">
+  <source src="/15vocab.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 - compliments: 			赞美
