@@ -1,30 +1,31 @@
 ---
-title: Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 15
+title: Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 16
 
 ---
 # Inman Senior Resident English Class
-## Intermediate Level On-line Lesson No. 15
-### Giving Compliments And Complaining 感谢与道歉
-
+## Intermediate Level On-line Lesson No. 16
+### Likes and Dislikes 喜欢与讨厌
 #### Vocabulary（词汇):
 <audio controls>
-  <source src="/15vocab.mp3" type="audio/mpeg">
+  <source src="/16vocab.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-- compliments: 			赞美
-- complaining:			抱怨
-- noise:  				噪音
-- sweater:				毛衣
-- brand				牌子
-- fashion				时髦
-- stereo				立体声
-- radio					收音机
-- bygone:				过去的事情
-- disturbing:				打扰
-- up in arms				举双手（反对）
-- behavior				行为
+- likes: 			喜欢
+- dislikes:		讨厌
+- perfume:  		香水
+- crème cakes:	奶油蛋糕
+- photography	摄影
+- get on my nerves	让我生气了
+- drive me mad		让我抓狂
+- annoying:			烦恼
+- badminton:		羽毛球
+- tennis			网球
+- smart talks 	油腔滑调
+- prefer		更情愿
+- gymnasium	体育馆
+- gardening		园艺
 
-#### Expressions
+#### Expressions (表达)
 
 ![Expressions](/16expressions.jpg)
 
@@ -33,7 +34,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
   Your browser does not support the audio element.
 </audio>
 
-#### Dialog 1
+#### Dialog 1 (对话)
 
 ![Dialog 1](/16dialog1.jpg)
 
@@ -42,7 +43,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
   Your browser does not support the audio element.
 </audio>
 
-#### FAQ
+#### FAQ (常见问题)
 
 ![FAQ](/16FAQ.jpg)
 
