@@ -58,7 +58,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 ![Dialog 3](/15dialog3.jpg)
 
 <audio controls>
-  <source src="/dialog314.mp3" type="audio/mpeg">
+  <source src="/15dialog3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -68,6 +68,6 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 ![FAQ](/15FAQ.jpg)
 
 <audio controls>
-  <source src="/FAQ14.mp3" type="audio/mpeg">
+  <source src="/FAQ15.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
