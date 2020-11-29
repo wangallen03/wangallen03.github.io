@@ -14,3 +14,5 @@
 - [Lesson 14 Thanks and Apologies](_posts/2020-10-12-Thanks-And-Apologies-Lesson-14.md)
 - [Lesson 15 Giving Compliments And Complaining](_posts/2020-11-2-Giving-Compliments-And-Complaining-Lesson-15.md)
 - [Lesson 16 Likes And Dislikes](_posts/2020-11-10-Likes-And-Dislikes.md)
+- [Lesson 17 Congratulations](_posts/2020-11-29-Congratulations.md)
+- [Lesson 18 Advice and Suggestions](_posts/2020-11-29-Advice-And-Suggestions.md)
