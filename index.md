@@ -16,4 +16,4 @@
 - [Lesson 16 Likes And Dislikes](_posts/2020-11-10-Likes-And-Dislikes.md)
 - [Lesson 17 Congratulations](_posts/2020-11-29-Congratulations.md)
 - [Lesson 18 Advice and Suggestions](_posts/2020-11-29-Advice-And-Suggestions.md)
-- [Lesson 18 Affirmation and Denial](_posts/2021-01-05-Affirmation-And-Denial.md)
+- [Lesson 19 Affirmation and Denial](_posts/2021-01-05-Affirmation-And-Denial.md)
