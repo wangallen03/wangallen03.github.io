@@ -11,11 +11,11 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
   <source src="/19vocab.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-Affirmation: 		肯定
-Denial:		否定
-duty:  		职责
-kidding:	玩笑·
-behave oneself	规矩
+- Affirmation: 		肯定
+- Denial:		否定
+- duty:  		职责
+- kidding:	玩笑·
+- behave oneself	规矩
 
 #### Expressions
 
