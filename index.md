@@ -18,3 +18,4 @@
 - [Lesson 18 Advice and Suggestions](_posts/2020-11-29-Advice-And-Suggestions.md)
 - [Lesson 19 Affirmation and Denial](_posts/2021-01-05-Affirmation-And-Denial.md)
 - [Lesson 20 Responses And Offers](_posts/2021-01-12-Responses-And-Offers.md)
+- [Lesson 21 Saying Goodbye](_posts/2021-01-19-Saying-Goodbye.md)
