@@ -16,9 +16,6 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 - On this point 在这点
 - views 观点
 - own opinion 自己的看法
-- violent 暴力
-- killing 杀害
-- shooting  枪击
 - mugging		谋杀
 - proof			证据
 - passive		被动
