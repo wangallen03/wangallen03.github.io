@@ -1,4 +1,3 @@
-
 ---
 title: Inman Senior Resident English Class - Intermediate Level On-line Lesson No. 21
 
