@@ -22,7 +22,6 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 - oriented:  起源
 - individualistic: 个人主义
 - argument:  争论观点
-- arguing:   争辩
 #### Expressions
 
 ![Expressions](/22expressions.jpg)
