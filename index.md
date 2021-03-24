@@ -21,3 +21,4 @@
 - [Lesson 21 Saying Goodbye](_posts/2021-01-19-Saying-Goodbye.md)
 - [Lesson 22 Agreement and Disagreement](_posts/2021-02-24-Agreement-and-Disagreement.md)
 - [Lesson 23 Encouragement and Praise](_posts/2021-03-09-Encouragement-and-Praise.md)
+- [Lesson 24 Permission and Refusal](_posts/2021-03-24-Permission-and-Refusal.md)
