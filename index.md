@@ -23,3 +23,4 @@
 - [Lesson 23 Encouragement and Praise](_posts/2021-03-09-Encouragement-and-Praise.md)
 - [Lesson 24 Permission and Refusal](_posts/2021-03-24-Permission-and-Refusal.md)
 - [Lesson 25 Surprise](_posts/2021-04-01-Surprise.md)
+- [Lesson 26 Possibility and Certainty](_posts/2021-05-05-possibility-and-certainty.md)
