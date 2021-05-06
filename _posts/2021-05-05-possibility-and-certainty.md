@@ -4,7 +4,7 @@ title: Inman Senior Resident English Class - Intermediate Level On-line Lesson N
 ---
 # Inman Senior Resident English Class
 ## Intermediate Level On-line Lesson No. 26
-### Surprise 可能 / 确定
+### Possibility and Certainty 可能 / 确定
 
 #### Vocabulary（词汇):
 <audio controls>
